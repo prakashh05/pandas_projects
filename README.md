@@ -1,7 +1,7 @@
 # Pandas Projects
 ## Repository Structure
 
-Each project is organised in its own folder and includes a README.md that provides the project description, dataset details, and key insights. Each folder typically contains:
+Each project is organised in its own folder and includes a `README.md` that provides the project description, dataset details, and key insights. Each folder typically contains:
 
 - `notebook.ipynb` – Jupyter Notebook containing the full Pandas analysis workflow, including data cleaning, exploration, and visualisation
 - `dataset.csv` (or data/ folder) – The dataset used for analysis, either in raw or cleaned form
