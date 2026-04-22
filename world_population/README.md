@@ -1,8 +1,8 @@
 # World Population Analysis
 
 ## Project Overview
-
 This project focuses on analysing a global population dataset to explore patterns across countries, continents, population growth, density, and area. The goal was to understand how population is distributed around the world and to practice data analysis skills using Python.
+
 ---
 
 ## Tools & Libraries Used
@@ -13,6 +13,8 @@ This project focuses on analysing a global population dataset to explore pattern
 - Plotly (for map visualisation)
 - Jupyter Notebook
 
+---
+
 ## Purpose of This Project
 The main purpose of this project was to:
 - Practice using Pandas for data manipulation and cleaning
@@ -22,6 +24,8 @@ The main purpose of this project was to:
 - Analyse trends across countries and continents
 - Work with correlation and statistical summaries
 - Build a beginner-friendly data analysis portfolio project
+
+---
 
 ## Dataset
 The dataset contains global population statistics for multiple countries, including:
